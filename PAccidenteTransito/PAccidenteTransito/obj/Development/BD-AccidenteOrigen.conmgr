@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="DESKTOP-QO707IK_MSSQLSERVER1.BDAccidenteTransito"
   DTS:DTSID="{E8145BA9-68A2-4FBA-97AE-6E0AD83BB6C2}"
@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=DESKTOP-QO707IK\MSSQLSERVER1;Initial Catalog=BDAccidenteTransito;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-PAccidenteTransito-{E8145BA9-68A2-4FBA-97AE-6E0AD83BB6C2}DESKTOP-QO707IK\MSSQLSERVER1.BDAccidenteTransito;Auto Translate=False;" />
+      DTS:ConnectionString="Data Source=DESKTOP-QO707IK\MSSQLSERVER1;Initial Catalog=BDAccidenteTransito;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-PAccidenteTransito-{E8145BA9-68A2-4FBA-97AE-6E0AD83BB6C2}DESKTOP-QO707IK\MSSQLSERVER1.BDAccidenteTransito;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>

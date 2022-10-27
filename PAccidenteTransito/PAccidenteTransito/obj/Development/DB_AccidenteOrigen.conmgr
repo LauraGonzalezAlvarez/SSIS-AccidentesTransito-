@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-QO707IK_MSSQLSERVER1.BDAccidenteTransito"
+  DTS:DTSID="{AEBFA210-A02B-470D-BA23-79292EBE7100}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-QO707IK\MSSQLSERVER1;Initial Catalog=BDAccidenteTransito;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-PAccidenteTransito-{AEBFA210-A02B-470D-BA23-79292EBE7100}DESKTOP-QO707IK\MSSQLSERVER1.BDAccidenteTransito;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
